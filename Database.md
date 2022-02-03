@@ -4,54 +4,47 @@
 
 
 
-## VoxCeleb
+## VoxCeleb1
 
-[A large scale audio-visual dataset of human speech](https://www.robots.ox.ac.uk/~vgg/data/voxceleb/index.html#about)
+[Paper (INTERSPEECH'17)](https://www.robots.ox.ac.uk/~vgg/publications/2017/Nagrani17/nagrani17.pdf) | [Download](https://www.robots.ox.ac.uk/~vgg/data/voxceleb/vox1.html)
 
-- VoxCeleb1
-- VoxCeleb2
+- speaker verification/identification
+- 1,251 speakers, 100,000+ utterances
+- real-world (in the wild), audio-visual dataset extracted from videos uploaded to YouTube
 
 
 
-## LibriSpeech
+### LibriSpeech
 
 [Paper (ICASSP'15)](https://web.archive.org/web/20150630025551id_/http://clsp.jhu.edu/~guoguo/papers/icassp2015_librispeech.pdf) | [Download](https://www.openslr.org/12/)
 
-- 1000+ hours
+- speech recognition corpus
 
-- Read English speech from audio books
+- 1,000+ hours
 
-- Automatically aligned and segmented
-
-- Designed for speech recognition
+- read english speech from audio books，automatically aligned and segmented
 
   
 
-
-
-
-
-
-
-## AMI
+### AMI
 
 [The AMI meeting corpus](https://groups.inf.ed.ac.uk/ami/corpus/)
 
 
 
-## CALLHOME
+
+
+### CALLHOME
 
 
 
-## DiHard
+### DiHard
 
 
 
 
 
-## MUSAN
+### MUSAN
 
-
-
-# RIRS
+### RIRS
 
