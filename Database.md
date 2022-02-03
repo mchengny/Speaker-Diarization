@@ -1,6 +1,6 @@
 
 
-# Database
+# Database List
 
 
 
@@ -15,6 +15,20 @@
 
 ## LibriSpeech
 
+[Paper (ICASSP'15)](https://web.archive.org/web/20150630025551id_/http://clsp.jhu.edu/~guoguo/papers/icassp2015_librispeech.pdf) | [Download](https://www.openslr.org/12/)
+
+- 1000+ hours
+
+- Read English speech from audio books
+
+- Automatically aligned and segmented
+
+- Designed for speech recognition
+
+  
+
+
+
 
 
 
@@ -26,4 +40,18 @@
 
 
 ## CALLHOME
+
+
+
+## DiHard
+
+
+
+
+
+## MUSAN
+
+
+
+# RIRS
 
