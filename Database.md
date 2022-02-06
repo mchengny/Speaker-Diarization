@@ -9,8 +9,18 @@
 [Paper (INTERSPEECH'17)](https://www.robots.ox.ac.uk/~vgg/publications/2017/Nagrani17/nagrani17.pdf) | [Download](https://www.robots.ox.ac.uk/~vgg/data/voxceleb/vox1.html)
 
 - speaker verification/identification
-- 1,251 speakers, 100,000+ utterances
+- 1,000+ speakers, 100,000+ utterances
 - real-world (in the wild), audio-visual dataset extracted from videos uploaded to YouTube
+
+
+
+### VoxCeleb2
+
+[Paper (INTERSPEECH'18)](https://www.robots.ox.ac.uk/~vgg/publications/2018/Chung18a/chung18a.pdf) | [Download](https://www.robots.ox.ac.uk/~vgg/data/voxceleb/vox2.html)
+
+- speaker verification/identification
+- 6,000+ speakers, 100,000,000(1 Million)+ utterances
+- much larger than VoxCele1, with no duplicated content 
 
 
 
@@ -35,6 +45,10 @@
 
 
 ### DiHard
+
+
+
+### Switchboard-2
 
 
 
