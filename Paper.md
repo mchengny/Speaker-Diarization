@@ -11,6 +11,10 @@
 - [BW-EDA-EEND: streaming END-TO-END Neural Speaker Diarization for a Variable Number of Speakers](https://ieeexplore.ieee.org/document/9414371)
   - BW-EDA-EEND (Block-Wise EDA + Transformer Encoder)
   - Block-level recurrence in the hidden states to carry information from block to block, making the algorithm complexity linear in time.
+- [Online End-To-End Neural Diarization with Speaker-Tracing Buffer](https://ieeexplore.ieee.org/document/9383523/)
+  - STB (speaker-tracing buffer) to store previous acoustic features and predictions
+  - Solve permutation ambiguity by ordering current predictions with previous ones in the buffer
+
 
 
 
