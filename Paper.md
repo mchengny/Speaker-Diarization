@@ -15,7 +15,12 @@
   - STB (speaker-tracing buffer) to store previous acoustic features and predictions
   - Solve permutation ambiguity by ordering current predictions with previous ones in the buffer
 
+- [Integrating End-to-End Neural and Clustering-Based Diarization: Getting the Best of Both Worlds](https://ieeexplore.ieee.org/document/9414333)
 
+  - Jointly learning diarization results and speaker embeddings in a chunk  (assuming the number of speakers in a short window is not bigger than 2)
+  - Using learnt speaker embeddings to cluster across the whole utterance, to solve the problems of long recodings
+
+  
 
 
 ### 2020 
