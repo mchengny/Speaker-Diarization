@@ -22,12 +22,7 @@
   - Jointly learning diarization results and speaker embeddings in a chunk  (assuming the number of speakers in a short window is not bigger than 2)
   - Using learnt speaker embeddings to cluster across the whole utterance, to solve the problems of long recodings
 - [2021.04] [Advances in Integration of End-to-End Neural and Clustering-Based Diarization for Real Conversational Speech](https://www.isca-speech.org/archive/interspeech_2021/kinoshita21_interspeech.html)
-
-
-
-Extension of the [2021.03] with more experiments
-
-
+  - Extension of the [2021.03] with more experiments
 
 ### 2020 
 
