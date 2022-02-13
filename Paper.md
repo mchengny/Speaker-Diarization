@@ -1,8 +1,4 @@
-
-
 # Paper List
-
-
 
 
 
@@ -11,8 +7,6 @@
 -  [2021.01] [BW-EDA-EEND: streaming END-TO-END Neural Speaker Diarization for a Variable Number of Speakers](https://ieeexplore.ieee.org/document/9414371) 
     -  BW-EDA-EEND (Block-Wise EDA + Transformer Encoder)
     -  Block-level recurrence in the hidden states to carry information from block to block, making the algorithm complexity linear in time.
-
-
 
 - [2021.02] [Online End-To-End Neural Diarization with Speaker-Tracing Buffer](https://ieeexplore.ieee.org/document/9383523/) 
   - STB (speaker-tracing buffer) to store previous acoustic features and predictions
@@ -23,6 +17,8 @@
   - Using learnt speaker embeddings to cluster across the whole utterance, to solve the problems of long recodings
 - [2021.04] [Advances in Integration of End-to-End Neural and Clustering-Based Diarization for Real Conversational Speech](https://www.isca-speech.org/archive/interspeech_2021/kinoshita21_interspeech.html)
   - Extension of the [2021.03] with more experiments
+
+
 
 ### 2020 
 
