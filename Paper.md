@@ -9,11 +9,8 @@
 ### 2021
 
 -  [2021.01] [BW-EDA-EEND: streaming END-TO-END Neural Speaker Diarization for a Variable Number of Speakers](https://ieeexplore.ieee.org/document/9414371) 
-
-  - BW-EDA-EEND (Block-Wise EDA + Transformer Encoder)
-  
-  
-    - Block-level recurrence in the hidden states to carry information from block to block, making the algorithm complexity linear in time.
+    -  BW-EDA-EEND (Block-Wise EDA + Transformer Encoder)
+    -  Block-level recurrence in the hidden states to carry information from block to block, making the algorithm complexity linear in time.
   
 
 
