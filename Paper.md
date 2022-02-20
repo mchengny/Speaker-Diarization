@@ -8,7 +8,7 @@
     -  BW-EDA-EEND (Block-Wise EDA + Transformer Encoder)
     -  Block-level recurrence in the hidden states to carry information from block to block, making the algorithm complexity linear in time.
 
-- [2021.02] [*Online End-To-End Neural Diarization with Speaker-Tracing Buffer*](https://ieeexplore.ieee.org/document/9383523/)*
+- [2021.02] [*Online End-To-End Neural Diarization with Speaker-Tracing Buffer*](https://ieeexplore.ieee.org/document/9383523/)
   - STB (speaker-tracing buffer) to store previous acoustic features and predictions
   
   - Solve permutation ambiguity by ordering current predictions with previous ones in the buffer
@@ -26,14 +26,16 @@
   
   - RPNSD
   -  Inspired by Faster R-CNN, jointly learn speech segment proposal and speaker embedding
-  
 - [2020.02] [*End-to-End Speaker Diarization for an Unknown Number of Speakers with Encoder-Decoder Based Attractors*](https://www.isca-speech.org/archive/interspeech_2020/horiguchi20_interspeech.html)
   
   - EDA (Encoder-Decoder based Attractor) + SA-EEND
-  
   - Using neural network to predict the number of speakers
-  
-    
+- [2020.03] [Target-Speaker Voice Activity Detection: A Novel Approach for Multi-Speaker Diarization in a Dinner Party Scenario](https://www.isca-speech.org/archive/interspeech_2020/medennikov20_interspeech.html)
+  - Transfer speaker diarization to a TS-VAD task this is similar to personalized VAD task
+  - Using clutering-based method to give an initial set of i-vector speaker embeddings, then iteratively re-estimate them by segmentation from the previous TS-VAD iteration.
+
+
+
 
 
 ### 2019
