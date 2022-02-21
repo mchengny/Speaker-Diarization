@@ -11,9 +11,9 @@ Track 4: Speaker Diarization
 - [1st] [*Microsoft Speaker Diarization System for the Voxceleb Speaker Recognition Challenge 2020*](https://ieeexplore.ieee.org/document/9413832)
 
   - Assuming the maximum number of talking speakers is two, continuous speech separation (CSS) separates the audio into two channels to remove the overlapped segments in a single channel.
-  - Segmental Speaker Embedding Extraction for every single channel, speaker clustering for two channels together to give the diarization result from one system
-  - Ensemble multiple diarization systems with different front-end/back-end components
   
+  - Segmental Speaker Embedding Extraction for every single channel, speaker clustering for two channels together to give the diarization result from one system.
+  - Ensembling multiple diarization systems with different front-end/back-end components.
 
 
 
