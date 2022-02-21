@@ -28,7 +28,7 @@
 
 - speech recognition corpus
 - 1,000+ hours
-- read english speech from audio books，automatically aligned and segmented
+- read English speech from audiobooks， automatically aligned and segmented
 
 
 
